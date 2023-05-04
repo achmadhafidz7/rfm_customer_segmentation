@@ -11,11 +11,10 @@ In this repository contains some folders/files
 
 | File/Folder Name | Description |
 | ----------- | ----------- |
-| Extracted Result | Folder containing result extracted from Database |
-| Query | Folder containing SQL Code to request data from Database|
-| Business Request.png | Email from the Sales manager |
-| Sales Budget.xlsx | Sales Budget Excel File |
-| Sales Overview Dashboard.pbix | Power Bi Dashboard file |
+| Cust_Segmentation.ipynb | Main file for writing python code for the Segmentation |
+| FactInternetSales.sql | Folder containing SQL Code to request data from Database|
+| FactInternetSales.csv | Sales Data from Database |
+| rfm_segmented.csv | Segmented Customer Data |
 
 # More about this project visit:
 ## [My Personal Website](https://achmadhafidz7.github.io/)
